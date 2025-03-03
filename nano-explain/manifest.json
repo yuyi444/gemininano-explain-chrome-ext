@@ -6,10 +6,13 @@
     "permissions": [
         "contextMenus",
         "activeTab",
-        "scripting"
+        "scripting",
+        "aiLanguageModelOriginTrial"
     ],
     "background": {
         "service_worker": "background.js"
-    }
+    },
+    "trial_tokens": ["AguYHh1DY67hK/0vfXj6VFYqXrgmR0XXozER5EF4lnwKVCQsoO8UREn4Ip/fVNhjGm4IGCt5uEYoj8ylQhyOTQIAAAB4eyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vZGhqamJrYWhrYWNtYmJsaGtpY25nZWhoa21ub29mb2EiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElGb3JFeHRlbnNpb24iLCJleHBpcnkiOjE3NjA0ODYzOTl9"]
+
 }
 
